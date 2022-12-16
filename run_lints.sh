@@ -7,3 +7,6 @@ go vet ./...
 
 
 good commit
+
+
+bad commit to be removed
