@@ -3,3 +3,5 @@
 set -ex
 
 go vet ./...
+
+bad commit
